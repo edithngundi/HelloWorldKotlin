@@ -2,4 +2,13 @@
     <string name="app_name">HelloWorld</string>
     <string name="introduction">👋 Hi, I’m Edith and I\'m currently learning Android Development with Kotlin</string>
     <string name="button_text">Say Hello!</string>
+    <string name="school">School</string>
+    <string name="major">Major</string>
+    <string name="hometown">Hometown</string>
+    <string name="fun_fact">Fun Fact</string>
+    <string name="senior">I\'m a senior at Minerva University</string>
+    <string name="computer_science">Majoring in Computer Science</string>
+    <string name="nairobi">Born and raised in Nairobi, Kenya</string>
+    <string name="e_family">Everyone\'s name in my family starts with an E</string>
+    <string name="and">And...</string>
 </resources>
