@@ -24,7 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/4cf6a0f8-36b1-4c5f-b94d-379700f943df' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/4cf6a0f8-36b1-4c5f-b94d-379700f943df' title='Video Walkthrough' width='' alt='Video Walkthr
+
+https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/4853e801-0894-4549-b975-792b5177c651
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
