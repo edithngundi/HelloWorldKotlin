@@ -18,31 +18,22 @@ The following **optional** features are implemented:
 
 * [x] Centred the Toast message
 * [x] Added interactive buttons to display more introductory information
+* [x] Used animations to reveal responses
 * [ ] Improve the user interface
 
 ## Video Walkthrough
-
 Here's a walkthrough of implemented features:
-
-<img src='https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/4853e801-0894-4549-b975-792b5177c651' title='Video Walkthrough' width='' alt='Video Walkthrough'>
-
 https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/4853e801-0894-4549-b975-792b5177c651
-
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video recorded by RecordIt on Mac
 
 ## Notes
-
 Describe any challenges encountered while building the app.
+- Keeping track of design choices like constraints on activity_main.xml
+- Setting up animations that reveal the responses
+- Resolving debugging errors; too many files involved
 
 ## License
-
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Edith Ngundi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
