@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
 
-https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/d3bda3b0-292a-4ec6-b458-998569f2adab
+https://github.com/edithngundi/HelloWorldKotlin/assets/99051899/5cb8bc37-fc23-4d00-8d9f-8c0bb6ff20ce
 
 Video recorded by RecordIt on Mac
 
